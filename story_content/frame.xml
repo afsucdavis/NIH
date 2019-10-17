@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnanbnsnfns10111100111" textdirection="ltr" device="false" fontscale="85" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns10111100111" font="Lato" controllayout="npnxnanbsnfns10111100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="pxabnsnfns10111100111" font="Lato" controllayout="pxabnsnfns10111100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="npxnabnsnfns10111100111" font="Lato" controllayout="npxnabnsnfns10111100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="npnxnanbnsnfns10111100111" font="Lato" controllayout="npnxnanbnsnfns10111100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="pxabnsnfns10111100110" font="Lato" controllayout="pxabnsnfns10111100110" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="npxnanbnsnfns10111100111" font="Lato" controllayout="npxnanbnsnfns10111100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="npnxnanbnsnfns00001100111" font="Lato" controllayout="npnxnanbnsnfns00001100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="pxabnsnfns00001100111" font="Lato" controllayout="pxabnsnfns00001100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="npnxnanbsnfns00001100111" font="Lato" controllayout="npnxnanbsnfns00001100111" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="npxnabnsnfns00001100110" font="Lato" controllayout="npxnabnsnfns00001100110" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+    <layout name="pxabnsnfns00001100110" font="Lato" controllayout="pxabnsnfns00001100110" colorscheme="npxnanbnsnfns10111100111" string_table="npxnanbnsnfns10111100111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="NIH Guidelines for Research Involving Recombinant/Synthetic Nucleic Acids" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="false">
+            <options>
+              <option name="sidebarpos" value="right" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="transcript" value="false" group="linkleft" />
+              <listitem name="resources" value="true" group="linkleft" />
+              <listitem name="outline" value="true" group="linkleft" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Test Out of this Course" />
+                  <property name="data" value="5XLYuwarDHk" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="glossary" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="false" />
+          <option name="autonumber" value="true" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111100110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npxnanbnsnfns10111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbsnfns00001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001100110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001100110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnanbnsnfns10111100111">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xBFBFBF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnanbnsnfns10111100111">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Calibri">
+      <files>
+        <file bold="false" italic="false" />
+        <file bold="false" italic="true" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6Sz82h8p4vY" displaytext="Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Sz82h8p4vY.6jQXvpdJjHT" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5sE8RQCzxA3" displaytext="Who Should Take this Course" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6GYjZQnXdc7" displaytext="How to Use this Course" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5zaQ9ss9bhp" displaytext="Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5qjmHHz3tHb" displaytext="OSP Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5vCKRXHaSe8" displaytext="Guidelines" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6Xf0smmvCfb" displaytext="Who Must Comply" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6o7qETEPOWW" displaytext="Intro to the IBC" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.64esz0EVHrX" displaytext="Who Reviews the Research? " expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6AjBHP8NCBz" displaytext="Description of NIH Sections " expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5tUKbg6xnCq" displaytext="Description of NIH Sections " expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5ofEA1ONKt0" displaytext="Avoiding Non-Compliance" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6lix3v9IQ0W" displaytext="BUA Preparation &amp; Submittal" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5juPIOCoOGI" displaytext="Steps " expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6mYSsHrE8h2" displaytext="Steps " expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.68Zie8b0MaY" displaytext="Facility Maintenance and Containment Practices" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.69JfujgoyQd" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6c0pZ2IZFyN" displaytext="Accidental Exposure/Release Reporting Requirement" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5UsrFQFR71m" displaytext="Accidental Exposure/Release Reporting Requirement" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6IY3nT8Hi5l" displaytext="Contact Information" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5kj99nIeIiM" displaytext="Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6KwhmwnEV0x" displaytext="What is the primary responsibility of the PI as outlined in the NIH guidelines? Please select the appropriate answers." expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5psPuls5MYp" displaytext="What does the IBC have to report to OSP? Please select the appropriate answers." expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6Dxz9ocvxME" displaytext="MULTIPLE CHOICE QUESTION" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.5jI7RX7z5xG" displaytext="The UC Davis IBC has expertise in containment of recombinant organisms." expand="false" type="slide" />
+            <slidelink slideid="_player.6Sz82h8p4vY.6gQIdMAIdL6" displaytext="Exit Course" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6Sz82h8p4vY.6jQXvpdJjHT" slidebank="false" type="slide">environmental health &amp; safety – biological safety university of california, davis  nih guidelines for research involving recombinant or synthetic nucleic acid molecules start course start course start course start course start course start course  think safe. act safe. be safe.</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5sE8RQCzxA3" slidebank="false" type="slide">audience research involving recombinant or synthetic nucleic acid molecules  principal investigators pis   </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6GYjZQnXdc7" slidebank="false" type="slide">how to use this course   closed captions   download the course pdf  disable audio</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5zaQ9ss9bhp" slidebank="false" type="slide">    objectives what the nih guidelines for research involving recombinant or synthetic nucleic acid molecules is    1 what type of research is covered    2 what the institutional biosafety committee is and who are its members    3 how the institutional review process works    4 pi responsibilities: approval for the work, submit amendments, train staff &amp; report responsibilities     5 </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5qjmHHz3tHb" slidebank="false" type="slide">osp introduction  the nih guidelines office of science policy  (osp)  promotes progress in biomedical research enterprise development of policies primary policy adviser to the nih director agency matters  research community public</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5vCKRXHaSe8" slidebank="false" type="slide">  the nih guidelines details safety and containment practices for research involving recombinant or synthetic nucleic acid molecules. this includes, but is not limited to, the creation and use of genetically modified cells, organisms, or viruses.</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6Xf0smmvCfb" slidebank="false" type="slide">who must comply  all entities that receive nih funding for research involving recombinant or synthetic nucleic acids any researcher working at an nih-funded institution this applies even if the researcher is not directly funded by the nih</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6o7qETEPOWW" slidebank="false" type="slide">intro to the ibc  nih guidelines mandates that entities form an institutional biosafety committee (ibc) ibcs provide review and oversight of research using recombinant or synthetic nucleic acid molecules nih provides strict guidance on the structure and function of this committee, to which institutions must adhere     </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.64esz0EVHrX" slidebank="false" type="slide">who reviews the research?   tenured and tenure-track faculty non-faculty subject matter experts safety professionals veterinarians physicians unaffiliated individuals</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6AjBHP8NCBz" slidebank="false" type="slide">description of nih sections   determining which section governs your research depends upon many factors, including: project objectives host identity and characteristics source of the gene or genes of interest function and characteristics of the protein or proteins of interest that may be expressed</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5tUKbg6xnCq" slidebank="false" type="slide"> major actions deliberate transfer of a drug resistance trait cloning of toxin molecules with an ld50 of less than 100 nanograms/kilogram of body weight  description of nih sections   section iii a - b  section iii c for human gene transfer studies section iii d - e  experiments involving risk group 2 or higher pathogens and risk group 1 organisms, respectively   section iii f  exempt from the nih guidelines </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5ofEA1ONKt0" slidebank="false" type="slide"> avoiding non-compliance  refrain from initiating research involving recombinant or synthetic nucleic acids until the biosafety office verifies to which section your work belongs.</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6lix3v9IQ0W" slidebank="false" type="slide">bua preparation &amp; submittal  pis  must comply with the nih guidelines during the entire course of research performed in their labs  they must obtain ibc approval for all non-exempt experiments  submit a completed biological use authorization (bua) </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5juPIOCoOGI" slidebank="false" type="slide">                   determine the appropriate physical and biological containment levels determine the appropriate practices and laboratory techniques     identify and discuss the intended and other potential consequences of the recombinant organisms and related materials bua preparation  &amp; submittal </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6mYSsHrE8h2" slidebank="false" type="slide"> pi provides adequate  training to all staff keep the bua current  ensure safety of staff appropriate response to accidental exposure or loss of containment provide rationale for precautionary medical practices administrative requirements  post-ibc approval</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.68Zie8b0MaY" slidebank="false" type="slide"> conditions of work  containment level engineering control personal protective equipment work practices when handling genetically modified materials pi ensures the appropriate conditions of work     facility maintenance and containment practices</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.69JfujgoyQd" slidebank="false" type="slide">...any significant problems, violations of the nih guidelines, or any significant research-related accidents and illnesses must be reported within 30 days.  </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6c0pZ2IZFyN" slidebank="false" type="slide">accidental exposure/release reporting requirement   incidents  spills or accidents occurring in a biosafety level 2 lab resulting in an overt exposure must be reported immediately to nih incidents   biosafety level 3 laboratory resulting  resulting in an overt or potential  exposure</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5UsrFQFR71m" slidebank="false" type="slide"> uc davis responsibilities report to nih: exposure or release of genetically modified organisms escaped transgenic animals  spills outside of containment  personal contamination/needlestick exposure pi/facility complete investigation &amp; file a report in a timely manner    accidental exposure/release reporting requirement</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6IY3nT8Hi5l" slidebank="false" type="slide">nih guidelines (pdf) 530-752-1493  biosafety@ucdavis.edu contact information  email us biosafety@ucdavis.edu  phone 530-752-1493  download pdf nih guidelines  biosafety office   start quiz start quiz start quiz start quiz start quiz start quiz</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5kj99nIeIiM" slidebank="false" type="slide"> quiz   </slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6l6ycm4SHkQ" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue you did not select the correct response. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct  who must comply with the  nih guidelines? any researcher at uc davis working with non-recombinant pathogenic agents any researcher at uc davis working with non-recombinant pathogenic agents any researcher at uc davis working with non-recombinant pathogenic agents any researcher at uc davis working with non-recombinant pathogenic agents any researcher at uc davis working with non-recombinant pathogenic agents any researcher at uc davis working with non-recombinant pathogenic agents any researcher at uc davis working with recombinant materials any researcher at uc davis working with recombinant materials any researcher at uc davis working with recombinant materials any researcher at uc davis working with recombinant materials any researcher at uc davis working with recombinant materials any researcher at uc davis working with recombinant materials all researchers on campus all researchers on campus all researchers on campus all researchers on campus all researchers on campus all researchers on campus any researcher working with an irb approved protocol any researcher working with an irb approved protocol any researcher working with an irb approved protocol any researcher working with an irb approved protocol any researcher working with an irb approved protocol any researcher working with an irb approved protocol 1</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6KwhmwnEV0x" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct continue continue continue continue continue continue you did not select the correct response. incorrect  what is the primary responsibility of the pi as outlined in the nih guidelines? please select the appropriate answers. 2 full compliance with the nih guidelines full compliance with the nih guidelines full compliance with the nih guidelines full compliance with the nih guidelines full compliance with the nih guidelines full compliance with the nih guidelines determine the need for ibc review before modifying  research subject to the nih guidelines determine the need for ibc review before modifying  research subject to the nih guidelines determine the need for ibc review before modifying  research subject to the nih guidelines determine the need for ibc review before modifying  research subject to the nih guidelines determine the need for ibc review before modifying  research subject to the nih guidelines determine the need for ibc review before modifying  research subject to the nih guidelines submit semi-annual reports to the ibc submit semi-annual reports to the ibc submit semi-annual reports to the ibc submit semi-annual reports to the ibc submit semi-annual reports to the ibc submit semi-annual reports to the ibc be adequately trained in good microbiological techniques be adequately trained in good microbiological techniques be adequately trained in good microbiological techniques be adequately trained in good microbiological techniques be adequately trained in good microbiological techniques be adequately trained in good microbiological techniques</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5psPuls5MYp" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct continue continue continue continue continue continue you did not select the correct response. incorrect  what does the ibc have to report to osp? please select the appropriate answers. 3 research involving work with any select agent research involving work with any select agent research involving work with any select agent research involving work with any select agent research involving work with any select agent research involving work with any select agent unintentional release of transgenic material into the environment unintentional release of transgenic material into the environment unintentional release of transgenic material into the environment unintentional release of transgenic material into the environment unintentional release of transgenic material into the environment unintentional release of transgenic material into the environment accidental spill of recombinant organism outside of containment accidental spill of recombinant organism outside of containment accidental spill of recombinant organism outside of containment accidental spill of recombinant organism outside of containment accidental spill of recombinant organism outside of containment accidental spill of recombinant organism outside of containment accidental auto-inoculation of non-recombinant infectious agent accidental auto-inoculation of non-recombinant infectious agent accidental auto-inoculation of non-recombinant infectious agent accidental auto-inoculation of non-recombinant infectious agent accidental auto-inoculation of non-recombinant infectious agent accidental auto-inoculation of non-recombinant infectious agent</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6Dxz9ocvxME" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue you did not select the correct response. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct  what is an institutional biosafety committee as outlined in the nih guidelines? any researcher at uc davis working with recombinant organisms any researcher at uc davis working with recombinant organisms any researcher at uc davis working with recombinant organisms any researcher at uc davis working with recombinant organisms any researcher at uc davis working with recombinant organisms any researcher at uc davis working with recombinant organisms committee that reviews safety protocols for recombinant organisms committee that reviews safety protocols for recombinant organisms committee that reviews safety protocols for recombinant organisms committee that reviews safety protocols for recombinant organisms committee that reviews safety protocols for recombinant organisms committee that reviews safety protocols for recombinant organisms committee that reviews all research involving human subjects committee that reviews all research involving human subjects committee that reviews all research involving human subjects committee that reviews all research involving human subjects committee that reviews all research involving human subjects committee that reviews all research involving human subjects committee that reviews only animal care protocols committee that reviews only animal care protocols committee that reviews only animal care protocols committee that reviews only animal care protocols committee that reviews only animal care protocols committee that reviews only animal care protocols 4</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.5jI7RX7z5xG" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct continue continue continue continue continue continue you did not select the correct response. incorrect  true true true true true true false false false false false false the uc davis ibc has expertise in containment of recombinant organisms. 5</slidetext>
+      <slidetext slideid="6Sz82h8p4vY.6gQIdMAIdL6" slidebank="false" type="slide">exit course exit course exit course exit course exit course exit course  think safe. act safe. be safe.</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/NIH Guidelines for Research Involving Recombinant_Synthetic Nucleic Acids.pdf" image="story_content/5W8fiQVEEOf.png" title="NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid" />
+      <resource url="https://safetyservices.ucdavis.edu/" image="story_content/url.png" title="UC Davis Safety Services" />
+      <resource url="story_content/external_files/NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Mole.pdf" image="story_content/6qod8a7NYZP.png" title="NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Mole" />
+    </resources>
+  </resource_data>
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6Sz82h8p4vY.6jQXvpdJjHT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Welcome to the “UC Davis NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acids” informational training.  Please click “Start Course” to begin.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5sE8RQCzxA3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;This training module is for Principal Investigators, or PIs, whose research involves recombinant or synthetic nucleic acids as described in Sections IIIA through IIIE of the &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines&lt;/i&gt;&lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;. It is designed to provide a basic introduction to the NIH Guidelines, and discusses the framework in place at the University of California Davis to ensure that research involving these materials is conducted safely.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6GYjZQnXdc7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Before we begin, please note that you can read a script of the information presented at any time by clicking on the closed captions button. You can also download a PDF of this course by clicking on the download link on the screen. To disable the audio at any time, click on the sound icon at the bottom of screen. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5zaQ9ss9bhp" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;By the end of this training, you should have a basic understanding of:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;1.	What the &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules is&lt;/i&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;2.	What type of research is covered.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;3.	What the Institutional Biosafety Committee is and who are its members.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;4.	How the institutional review process works.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;5.	The PI responsibilities as outlined in the NIH Guidelines, as they pertain to obtaining approval for the work, submitting amendments to reflect progress, training of staff, and reporting responsibilities.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5qjmHHz3tHb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules,&lt;/i&gt;&lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt; hereafter referred to as the &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines&lt;/i&gt;&lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;, is administered by the NIH Office of Science Policy (OSP). The scope of this federal agency is to promote progress in the biomedical research enterprise through the development of sound and comprehensive policies. The OSP also is the primary policy adviser to the NIH Director on matters of significance to the agency, the research community, and the public interest.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;In the next few slides, we will discuss the scope of the &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines&lt;/i&gt;&lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt; and the research that is covered.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5vCKRXHaSe8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines &lt;/i&gt;&lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;details safety and containment practices for research involving recombinant or synthetic nucleic acid molecules. This includes, but is not limited to, the creation and use of genetically modified viruses or organisms.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6Xf0smmvCfb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Entities that receive NIH funding for research involving recombinant or synthetic nucleic acid molecules must comply with the &lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;&lt;i&gt;NIH Guidelines&lt;/i&gt;&lt;/font&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;. This applies to all researchers working at the institution, even if individual projects are not funded by the NIH.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6o7qETEPOWW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The NIH Guidelines mandates that those entities form an Institutional Biosafety Committee, or IBC, to provide local review and oversight for all non-exempt forms of research utilizing recombinant or synthetic nucleic acids. The NIH provides strict guidance on the structure and function of this committee, to which institutions must adhere.&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;br&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.64esz0EVHrX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;At the University of California Davis, the IBC is comprised of representatives qualified to provide a full, comprehensive review of the cutting-edge research that occurs on campus. Members include tenured and tenure-track faculty, as well as non-faculty subject matter experts. These include safety professionals, veterinarians, and physicians. There are also several members of the committee that are not directly affiliated with UC Davis to represent community interests, as mandated by the NIH Guidelines.&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The next section of the training will introduce the Biological Use Authorization, or B U A, and the way by which P Eyes obtain approval for research that is subject to the NIH Guidelines.&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6AjBHP8NCBz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Research involving recombinant or synthetic nucleic acids will fall into one of six Sections of the NIH Guidelines. Determining which Section governs your research depends upon many factors, including:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;1.	Host Identity and Characteristics&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;2.	Source of the Gene or Genes of Interest&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;3.	Function and characteristics of the Protein or Proteins of Interest that may be expressed&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5tUKbg6xnCq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 2px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The Biosafety Office will help determine which sections of the NIH Guidelines apply to your research. Sections III A through B of the NIH Guidelines are for “major actions,” such as the deliberate transfer of a drug resistance trait, and for cloning of toxin molecules with an LD50 of less than 100 nanograms/kilogram of body weight, respectively. Section III C is for human gene transfer studies.  Sections III D and E are for experiments involving Risk Group 2 or higher pathogens and Risk Group 1 organisms, respectively. &lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 2px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Also noteworthy is that use of certain hosts and vectors falls under Section III F and is exempt from the NIH Guidelines.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 2px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5ofEA1ONKt0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;To avoid having to report an incident to the NIH, it is recommended that you refrain from initiating research involving recombinant or synthetic nucleic acids until the Biosafety Office verifies to which Section your work belongs.&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6lix3v9IQ0W" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;P Is  are responsible for full compliance with the NIH Guidelines during the entire course of research performed in their labs and must obtain IBC approval for all non-exempt experiments. At UC Davis, this is done by submitting a completed Biological Use Authorization, or B U A. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5juPIOCoOGI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;The BUA is a document in which the PI describes the project, lists organisms and materials involved, assesses the risks of the materials and procedures, and proposes containment and controls to mitigate the risks to staff and the environment. The PI works directly with the Biosafety Office in preparing this document to:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;1.	Determine the appropriate physical and biological containment levels.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;2.	Determine the appropriate practices and laboratory techniques.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 48px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;3.	Identify and discuss the intended and other potential consequences of the recombinant organisms and related materials.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;Once these topics have been addressed, it is submitted to the IBC for review. The next section of the training will outline the responsibility of the PI to sufficiently train his or her staff.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6mYSsHrE8h2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;In addition to obtaining IBC approval for research involving recombinant organisms, the PI has a regulatory requirement to provide adequate training to all staff. The BUA acts a training document and staff are required to be trained on it at least annually, or more frequently as needed, such as after an amendment has been approved. Training must be documented, and that documentation must be made available upon request.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;It is also the responsibility of the PI to keep the BUA current by submitting amendments after its initial approval. Amendments are necessary for changes to personnel, work locations, experimental techniques or materials. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#010101'&gt;Research staff must be trained and supervised on the practices and techniques required to ensure safety during hazardous procedures until competence is achieved.  Staff must also be made aware of how to respond during an accidental exposure or loss of containment. It is recommended that the rationale behind provisions for precautionary medical practices that have been advised or requested be provided, such as vaccinations.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.68Zie8b0MaY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;An approved B  UA dictates the conditions of the work to be performed, such as containment level, engineering controls, personal protective equipment, and work practices required when handling genetically modified materials. The P I must ensure that these conditions are being met and should act without delay to correct any issues or practices that may result in the release of recombinant organisms. Examples would be to ensure that a biosafety cabinet is annually certified and is used correctly, or that recombinant organisms are inactivated before disposal via the appropriate waste stream.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.69JfujgoyQd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The NIH Guidelines states that &amp;quot;...any significant problems, violations of the NIH Guidelines, or any significant research-related accidents and illnesses&amp;quot; must be reported to NIH within 30 days. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6c0pZ2IZFyN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Certain types of incidents must be reported on a more expedited basis. Spills or accidents occurring in a Biosafety Level 2 laboratory resulting in an overt exposure must be immediately reported to NIH.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Spills or accidents occurring in high containment, such as a Biosafety Level 3 laboratory resulting in an overt or potential exposure must also be immediately reported to NIH.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.5UsrFQFR71m" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;U C Davis has an institutional responsibility to report any exposure to, or release of, genetically modified organisms to the N I H O S P. Examples of a reportable exposure or release include escaped transgenic animals, spills outside of containment, personal contamination or needlestick exposure. &lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Lato' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;After an exposure or release, the P I or facility will work with the Biosafety Office to complete an investigation and file the report in a timely manner.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6IY3nT8Hi5l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;This concludes the informational training regarding the &lt;/font&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;i&gt;NIH Guidelines.&lt;/i&gt;&lt;/font&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt; Please contact the Biosafety Office if you have questions about any topic presented in this course.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Email- &lt;/font&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;&lt;u&gt;biosafety@ucdavis.edu &amp;lt;mailto:biosafety@ucdavis.edu&amp;gt;&lt;/u&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Phone-530-752&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;NIH Guidelines PDF link&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Click next to proceed to the quiz.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6Sz82h8p4vY.6gQIdMAIdL6" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px;margin-top: 6px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144, 192, 240]'&gt;&lt;font face='Calibri' size='16.5pt' style="font-size:16.5pt;" color='#000000'&gt;Welcome to UC Davis’s Medical Waste Management training. This training was designed for research and teaching activities at UC Davis and covers proper methods for handling and disposing of medical waste, as required by local, State and Federal regulations.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
